@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node bot-wsp4.js"
+    "start": "node bot-wsp4.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -18,3 +18,4 @@
     "ws": "^8.18.1"
   }
 }
+
